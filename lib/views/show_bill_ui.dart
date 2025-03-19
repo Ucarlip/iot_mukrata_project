@@ -104,7 +104,7 @@ class ShowBillUi extends StatelessWidget {
               ),
               SizedBox(height: 20),
               Image(
-                image: AssetImage('assets/images/qr_code.png'),
+                image: AssetImage('assets/images/payqr.png'),
                 width: 250,
                 height: 250,
               ),
