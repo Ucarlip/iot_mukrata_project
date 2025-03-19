@@ -17,7 +17,7 @@ class _HomeUiState extends State<HomeUi> {
   final itemCtrl = NotchBottomBarController(index: 1);
   //สร้างตัวเเปรเก็บ UI ที่จะใช้เเสดงซึ่งล้อกับ item ใน AnimatedNotchBottomBar
   List<Widget> itemUIShow = [
-    CalBillUi(),
+    CallBillUI(),
     MenuUI(),
     AboutUi(),
   ];
